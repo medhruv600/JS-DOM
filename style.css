@@ -1,0 +1,24 @@
+h3 {
+  color: blue;
+}
+
+pre {
+  color: purple;
+  font-size: large;
+}
+
+li {
+  color: purple;
+}
+
+#flex-card {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+  margin: 30px;
+}
